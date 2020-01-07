@@ -1,2 +1,2 @@
 # FANA-SDN
-amin optical communication technology SDN orchestrator
+Amin Optical Communication Technology SDN Orchestrator
